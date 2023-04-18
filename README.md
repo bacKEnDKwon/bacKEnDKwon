@@ -7,3 +7,8 @@
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   
 </div>
+
+<br>
+<div align="center">
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=backEndKwon&show_icons=true&theme=tokyonight)
+ </div>

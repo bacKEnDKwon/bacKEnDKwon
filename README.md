@@ -4,11 +4,7 @@
 <br/><a href="mailto:iscowkite@gmail.com" target="_blank"><img src="https://img.shields.io/badge/rhaehfdl0433@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <br/><br/>
 
 <p>
-  👋&nbsp; Nice meet you! I'm <b>Beginner Backend Developer</b> skilled in Node.js.<br/>
-  <br/>when it comes to my personality, I'm really extrovert. so love making friends.
-  <br/>I can speak english and chinese(我会用中文来沟通，中国朋友们随时联系我。)
-  <br/>I enjoy workout, swimming 🏊‍♂️
-  <br/>I hope to develop aweseom things. Thanks ✨ <br/><br/>
+  Korean BackEnd Developer
 </p>
 
 

@@ -4,7 +4,8 @@
 <br/><a href="mailto:iscowkite@gmail.com" target="_blank"><img src="https://img.shields.io/badge/rhaehfdl0433@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <br/><br/>
 
 <p>
-  Korean BackEnd Developer
+  Korea BackEnd Developer
+  welcome language/Korean/Chinese/English
 </p>
 
 
